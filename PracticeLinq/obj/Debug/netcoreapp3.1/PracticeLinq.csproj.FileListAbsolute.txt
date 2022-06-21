@@ -1,0 +1,14 @@
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.exe
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.deps.json
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.runtimeconfig.json
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.runtimeconfig.dev.json
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.dll
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.pdb
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.csproj.AssemblyReference.cache
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.AssemblyInfoInputs.cache
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.AssemblyInfo.cs
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.csproj.CoreCompileInputs.cache
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.dll
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.pdb
+C:\Users\drewb\OneDrive\repos\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.genruntimeconfig.cache
